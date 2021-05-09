@@ -1,3 +1,8 @@
+---
+title: Homepage
+menus: header
+---
+
 # All About Tamia
 
 <p align="center">
