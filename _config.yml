@@ -3,7 +3,6 @@ theme: jekyll-theme-cayman
 title: Tamia Taylor-Bader, MSLS
 description: This is the official, professional working resume/website for Tamia Taylor-Bader
 
-header_pages:
-  - README.md
-  - work.md
-  - education.md
+github:
+
+is_project_page: false
