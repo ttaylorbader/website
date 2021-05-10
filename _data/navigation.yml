@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Home
+  url: index.html
+
+- title: Work
+  url: /work.md
+
+- title: Education
+  url: /work.md
+
+- title: Achievements & Skills
+  url: /achievements.md
+
+- title: Training Examples
+  url: /training.md
